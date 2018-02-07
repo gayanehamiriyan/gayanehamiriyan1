@@ -1,0 +1,31 @@
+body{background: lightblue
+
+}
+h1{
+	text-align: center;
+	font-size: 35px;
+}
+.pic{
+	text-align: center;
+
+}
+.section_1{
+	
+	text-align: left;
+	background-color: white;
+}
+.section_2{
+	background-color: grey;
+	text-align: left;
+}
+#part_1{
+	color: darkblue;
+	font-size:"4"
+
+
+}
+#part_2{
+	content: darkblue;
+	font-size:"5"
+}
+
